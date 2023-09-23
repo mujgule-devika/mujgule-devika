@@ -2,7 +2,7 @@
 You can call me Devs 🌼
 
 I am a grad student at Northeastern University. I love a good design. I am into frontend development, UI/UX and HCI. 
-Outside work, I love photography, art, museums, biking, working out and gardening
+Outside work, I love photography, art, museums, biking, working out and taking care of my milllion plants 
 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning TypeScript, MERN and React
