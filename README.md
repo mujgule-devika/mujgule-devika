@@ -9,6 +9,6 @@ Outside work, I love photography, art, museums, biking, working out and taking c
 - 💬 Ask me about UI/UX and Frontend dev
 - 📫 Reach me at mujgule.devika07@gmail.com or [LinkedIn](https://www.linkedin.com/in/devikamujgule/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: i love bread 🍞
+- ⚡ Fun fact: i love behavioural psycology
 <!---- 👯 I’m looking to collaborate on 
 //- 🤔 I’m looking for help with ... -->
