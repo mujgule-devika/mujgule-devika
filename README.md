@@ -5,7 +5,7 @@ I am a grad student at Northeastern University. I love a good design. I am into 
 Outside work, I love photography, art, museums, biking, working out and taking care of my milllion plants 
 
 - 🔭 I’m currently working on my personal website and a JAVA project for school
-- 🌱 I’m currently learning TypeScript, MERN and React
+- 🌱 I’m currently learning React + TypeScript, GraphQL and Redux
 - 💬 Ask me about UI/UX and Frontend dev
 - 📫 Reach me at mujgule.devika07@gmail.com or [LinkedIn](https://www.linkedin.com/in/devikamujgule/)
 - 😄 Pronouns: She/Her
