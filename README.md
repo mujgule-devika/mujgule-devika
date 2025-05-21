@@ -1,4 +1,4 @@
-### hey, i'm devika. you can call me devs 🌼
+###🧃 hey, i'm devika. you can call me devs 🌸
 
 I love a good design. I like frontend development, UI/UX and HCI. 
 Outside work, I love photography, art, museums, biking, working out and taking care of my milllion plants 
